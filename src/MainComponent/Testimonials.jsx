@@ -1,6 +1,6 @@
 import React from "react";
 import { Typography, Box, Avatar, Card, CardContent } from "@mui/material";
-import testimonialsData from "./Testimonialsdata.json";
+import testimonialsData from "./TestimonialsData.json";
 
 const CompanyLogo = ({ name }) => (
   <Typography className="testimonial-company-logo" variant="body2">
