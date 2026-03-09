@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 // import Header from './MainComponent/Header'
-import PiechartContent from './MainComponent/piechartContent'
+import piechartContent from './MainComponent/piechartContent'
 import BrandContent from './MainComponent/brandContent'
 import Navbar from './MainComponent/navbar'
 import Footer from './MainComponent/footer'
@@ -20,7 +20,7 @@ function App() {
     <>
      {/* <Header/> */}
      <Navbar/>
-     <PiechartContent/>
+     <piechartContent/>
      <BrandContent/>
      <Highlights/>
      <Features/>

@@ -3,7 +3,7 @@ import React from 'react'
 import SearchBar from '../EditComponent/Searchbar'
 import PrimaryButton from '../EditComponent/Button'
 
-const PiechartContent = () => {
+const piechartContent = () => {
   return (
     <>
       <Box className="piechart-wrapper">
@@ -37,4 +37,4 @@ const PiechartContent = () => {
   )
 }
 
-export default PiechartContent
+export default piechartContent
