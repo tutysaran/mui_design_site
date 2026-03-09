@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Box, Typography } from "@mui/material";
-import featuresData from "./featuresData.json";
+import featuresData from "./FeaturesData.json";
 
 /* ── Icons ─────────────────────────────────────────────── */
 const DashboardIcon = ({ active }) => (
