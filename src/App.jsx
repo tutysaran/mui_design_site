@@ -25,7 +25,7 @@ function App() {
      <Highlights/>
      <Features/>
      <Testimonials/>
-        <Pricing/>
+      <Pricing/>
       <FeedbackAns/>
      <Footer/>
     </>
